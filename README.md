@@ -6,6 +6,7 @@ After countless prompts with ChatGPT and Gemini, and plenty of hands-on debuggin
 My aim was to make it as fun and faithful as possible while sneaking in simple animations: a spinning ‘$’ bonus, pulsating power pills, and ghosts that visibly shift during frightened mode to show time running out.
 
 <img width="792" height="575" alt="Pacman Applesoft" src="https://github.com/user-attachments/assets/4d34f8b0-929b-4b65-95f8-b1603eb91e8b" />
+
 # Highlights:
 
 - 19×15 maze, fast and clean gameplay
