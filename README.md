@@ -21,5 +21,7 @@ My aim was to make it as fun and faithful as possible while sneaking in simple a
 - High score tracking
 - Press 1 to quit
 
-
+# Notes from forker:
+- Corrected original txt file BASIC order for CiderPress importing from TXT to BAS
+- Added a po disk image for emulator to boot and run
 
