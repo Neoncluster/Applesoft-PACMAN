@@ -24,4 +24,4 @@ My aim was to make it as fun and faithful as possible while sneaking in simple a
 # Notes from forker:
 - Corrected original txt file BASIC order for CiderPress importing from TXT to BAS
 - Added a po disk image for emulator to boot and run
-- Play it online for average performance: 1. download po file, 2. Go [Apple2TS](https://apple2ts.com/), 3. click S6D1 drive and insert po file, 4. Set emulator speed to Ludicrous (16MHz), 5. Run The Game, set game speed to Fast. 
+- Play it online for average performance: 1. download po file, 2. Go [Apple2TS](https://apple2ts.com/), 3. click S6D1 floppy drive and load po file, 4. Set emulator speed to Ludicrous (16MHz), 5. Run the game, set game speed to Fast. 
