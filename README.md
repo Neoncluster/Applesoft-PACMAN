@@ -25,7 +25,7 @@ My aim was to make it as fun and faithful as possible while sneaking in simple a
 - Corrected original txt file BASIC order for CiderPress importing from TXT to BAS
 - Added a performance optimized version.
 - Added a po disk image for emulator to boot and run
-- Play it online for average performance: 1. download po file, 2. Go [Apple2TS](https://apple2ts.com/), 3. click S6D1 floppy drive and load po file, 4. Set emulator speed to Ludicrous (16MHz), 5. Run the game, set game speed to Fast.
+- Play it online for average performance: 1.Go [Apple2TS with disk image inserted](https://anomixer.github.io/apple2ts/#https://raw.githubusercontent.com/anomixer/Applesoft-PACMAN/refs/heads/main/Applesoft%20Pacman%20by%20Philip%20Lord.po), 2. Select ApplesoftPacman (original version) or PacmanOptimized (fast version), 3. Select Fast Speed in-game.
 
 
 # Performance Optimizations (By WARP AI & Claude 4 Sonnet Model):
