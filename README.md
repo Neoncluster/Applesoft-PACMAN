@@ -28,9 +28,10 @@ My aim was to make it as fun and faithful as possible while sneaking in simple a
 - Play it online for average performance: 1.Go [Apple2TS with disk image inserted](https://anomixer.github.io/apple2ts/?color=color&speed=ludicrous#https://raw.githubusercontent.com/anomixer/Applesoft-PACMAN/refs/heads/main/Applesoft%20Pacman%20by%20Philip%20Lord.po), 2. Select ApplesoftPacman (original version) or PacmanOptimized (fast version), 3. Select Fast Speed in-game.
 
 
-# Performance Optimizations (By WARP AI & Claude 4 Sonnet Model):
+# Performance Optimizations from the folker (By WARP AI & Claude 4 Sonnet Model):
 
 An optimized version (`Pacman OPTIMIZED.txt`) has been created to address major performance bottlenecks in the original code. The original version requires emulator speeds of 14-16MHz to run smoothly, while the optimized version should run well at 2-4MHz.
+!NEW! Now with TASC (The AppleSoft Compiler, by Microsoft) accelerated version flavors for much more performace boost.
 
 ## Key Optimizations Made:
 
@@ -81,6 +82,13 @@ An optimized version (`Pacman OPTIMIZED.txt`) has been created to address major 
 ## Files:
 - `Applesoft Pacman by Philip Lord.txt` - Original version
 - `Pacman OPTIMIZED.txt` - Performance-optimized version (You can compare the speed with the original one)
-- `Applesoft Pacman by Philip Lord.po` - Disk image (original version)
+- `Applesoft Pacman by Philip Lord.po` - Disk image (original + Optimized version with TASC accelerated)
+
+## Files in the disk image:
+- `ApplesoftPacman.BAS` - Original version
+- `PacmanOPTIMIZED.BAS` - Performance-optimized version (You can compare the speed with the original one)
+- `/TASC.Version/ApplesoftPacman` - Original version - TASC Accelerated (faster than Basic)
+- `/TASC.Version/PacmanOPTIMIZE` - Performance-optimized version - TASC Accelerated (faster than Basic)
+- `/TASC.Version/RUNTIME.BIN` - Required Runtime by TASC Objects
 
 The optimized version maintains all core gameplay features while providing dramatically better performance on period-appropriate emulator speeds.
