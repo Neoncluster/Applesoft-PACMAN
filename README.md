@@ -89,9 +89,10 @@ An optimized version (`Pacman OPTIMIZED.txt`) has been created to address major 
 - `ApplesoftPacman.BAS` - Original version
 - `PacmanOPTIMIZED.BAS` - Performance-optimized version (You can compare the speed with the original one)
 - `/TASC.Version/ApplesoftPacman` - Original version - TASC Accelerated (faster than Basic)
-- `/TASC.Version/PacmanOPTIMIZE` - Performance-optimized version - TASC Accelerated (faster than Basic)
+- `/TASC.Version/PacmanOPTIMIZE` - Performance-optimized version - TASC Accelerated (Almost playable on an original 1MHz Apple ][)
 - `/TASC.Version/RUNTIME.BIN` - Required Runtime by TASC Objects
 
 The optimized version maintains all core gameplay features while providing dramatically better performance on period-appropriate emulator speeds.
+
 
 
