@@ -25,10 +25,10 @@ My aim was to make it as fun and faithful as possible while sneaking in simple a
 - Corrected original txt file BASIC order for CiderPress importing from TXT to BAS
 - Added a performance optimized version.
 - Added a po disk image for emulator to boot and run
-- Play it online for average performance: 1.Go [Apple2TS with disk image inserted](https://anomixer.github.io/apple2ts/?color=color&speed=ludicrous#https://raw.githubusercontent.com/anomixer/Applesoft-PACMAN/refs/heads/main/Applesoft%20Pacman%20by%20Philip%20Lord.po), 2. Select ApplesoftPacman (original version) or PacmanOptimized (fast version), 3. Select Fast Speed in-game.
+- Play it online for average performance: 1.Go [Apple2TS with disk image inserted](https://anomixer.github.io/apple2ts/?color=color&speed=ludicrous#https://raw.githubusercontent.com/anomixer/Applesoft-PACMAN/refs/heads/main/Applesoft%20Pacman%20by%20Philip%20Lord.po), 2. Select ApplesoftPacman (original version) or PacmanOptimized (fast version), 3. Select Fast Speed in-game. 4. Enjoy and remember to test boosted versions under /TASC.VERSION directory.
 
 
-# Performance Optimizations from the folker (By WARP AI & Claude 4 Sonnet Model):
+# Performance Optimizations from the forker (By WARP AI & Claude 4 Sonnet Model):
 
 An optimized version (`Pacman OPTIMIZED.txt`) has been created to address major performance bottlenecks in the original code. The original version requires emulator speeds of 14-16MHz to run smoothly, while the optimized version should run well at 2-4MHz.
 !NEW! Now with TASC (The AppleSoft Compiler, by Microsoft) accelerated version flavors for much more performace boost.
@@ -92,3 +92,4 @@ An optimized version (`Pacman OPTIMIZED.txt`) has been created to address major 
 - `/TASC.Version/RUNTIME.BIN` - Required Runtime by TASC Objects
 
 The optimized version maintains all core gameplay features while providing dramatically better performance on period-appropriate emulator speeds.
+
