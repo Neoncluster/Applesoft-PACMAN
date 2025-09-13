@@ -31,7 +31,8 @@ My aim was to make it as fun and faithful as possible while sneaking in simple a
 # Performance Optimizations from the forker (By WARP AI & Claude 4 Sonnet Model):
 
 An optimized version (`Pacman OPTIMIZED.txt`) has been created to address major performance bottlenecks in the original code. The original version requires emulator speeds of 14-16MHz to run smoothly, while the optimized version should run well at 2-4MHz.
-!NEW! Now with TASC (The AppleSoft Compiler, by Microsoft) accelerated version flavors for much more performace boost.
+
+!!!! NEW !!!! - Now with TASC (The AppleSoft Compiler, by Microsoft) accelerated version flavors for much more performace boost.
 
 ## Key Optimizations Made:
 
@@ -92,4 +93,5 @@ An optimized version (`Pacman OPTIMIZED.txt`) has been created to address major 
 - `/TASC.Version/RUNTIME.BIN` - Required Runtime by TASC Objects
 
 The optimized version maintains all core gameplay features while providing dramatically better performance on period-appropriate emulator speeds.
+
 
